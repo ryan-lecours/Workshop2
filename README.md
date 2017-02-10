@@ -1,6 +1,9 @@
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> c70d3fe907b0df4cfd1b3cc06084e28ed55607ef
 # Workshop 2: Git
 
 
