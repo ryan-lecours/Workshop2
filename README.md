@@ -1,4 +1,8 @@
-# Workshop-2
+<<<<<<< HEAD
+
+=======
+# Workshop 2: Git
+>>>>>>> 8f4295533ffd913ce8ab6666cbe847dea2e61f68
 
 The second workshop of CS326, which covers how to use Git in a group setting.
 
